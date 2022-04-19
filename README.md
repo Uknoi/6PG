@@ -11,6 +11,6 @@ Announce, Auto-mod, General, Leveling, Music, and more!
 https://help.codea.live/projects/6pg
 
 ### Credits
-Made by [theADMIR]
+Made by [theADMIR](https://github.com/theADAMJR/)
 
 Modified by [ManLoJe](https://GitHub.com/ManLoJe)
