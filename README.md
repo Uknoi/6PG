@@ -6,6 +6,7 @@ Announce, Auto-mod, General, Leveling, Music, and more!
 We have hosted this project! If you don't want to host so you can go in [Plex Bot Maker](https://plexbotmanager.herkokuapp.com/)
 ### Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Uknoi/6PG/tree/master)
+[hey](https://replit.com/GitHub/Uknoi/6PG/tree/master)
 
 ---
 
